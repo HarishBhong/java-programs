@@ -1,6 +1,8 @@
+package JavaBasics.week1.if_Else_Loops;
 
 import java.util.Scanner;
-public class ifElse
+
+public class ifElse1
 {
     public static void main(String[] args) {
 

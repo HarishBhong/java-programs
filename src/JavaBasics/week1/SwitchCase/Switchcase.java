@@ -1,10 +1,10 @@
-/******************************************************************************
+package JavaBasics.week1.SwitchCase; /******************************************************************************
 
  switch case statement
 
  *******************************************************************************/
 import java.util.Scanner;
-public class SwitchCase
+public class Switchcase
 {
     public static void main(String[] args) {
 
