@@ -34,7 +34,7 @@ Output: "A"
 
 import java.util.ArrayList;
 
-public class C4_leetcode6_zigzagConversion {
+public class c4_leetcode6_zigzagConversion {
 
     public static String convert(String s, int numRows){
 
