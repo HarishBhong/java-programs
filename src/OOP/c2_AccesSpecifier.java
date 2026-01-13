@@ -2,7 +2,7 @@ package OOP;
 /*
 access specifier safety : private > default > protected > public
 
-private --> only wihtin same class. NOT outside class
+private --> only within same class. NOT outside class
 default --> same class + within same package. BUT not outside package
 protected --> within same package + IF subclass in other package. BUT not everywhere in other package(only in subclass in that package)
 public --> in package + everyWhere Outside Package

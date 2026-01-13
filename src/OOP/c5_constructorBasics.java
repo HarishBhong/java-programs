@@ -19,7 +19,7 @@ public class c5_constructorBasics {
     public static void main(String[] args) {
 
         new ABC(); //means we are creating an object of class ABC using its constructor ABC().
-                       //"Java requires a constructor to be called - when creating an object using 'new' keyword.
+                       //Java requires a constructor to be called - when creating an object using 'new' keyword.
 
         ABC obj1 = new ABC();  //object creation. and assigning it to variableNamed 'obj'
     }
