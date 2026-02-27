@@ -36,8 +36,8 @@ public class c2_insertInLinkedList {
 }
 
 
-class Solution{
-    Node insertAtEnd(NodeC1 n1, int x) {
-        NodeC1 newNode = new NodeC1(x);
-    }
-}
+//class Solution{
+//    Node insertAtEnd(NodeC1 n1, int x) {
+//        NodeC1 newNode = new NodeC1(x);
+//    }
+//}

@@ -1,4 +1,4 @@
-package DSAweek3;
+package DSAweek3.Lec15;
 // 15, 17
 /*
 
