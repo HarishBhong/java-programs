@@ -56,7 +56,7 @@ Sysntax in C++
 
 Array --> is a builtin data structure of core java lang, not imported from any package
       --> it's declared with fixed size
-      --> int num = new int[];
+      --> int[] num = new int[];
 
 ArrayList --> is not builtin data structure
           --> its a class of java.util package
